@@ -1,5 +1,5 @@
 #  🔷 Hangman 🔷 
-A simple Hangman game i was given to make as a assignment in my 2nd semester and the University.
+A simple Hangman game i was given to make as a assignment in my 2nd semester at the University.
  
  ♦️Here is how it works:
  1) You get a random country from a list of selected countries that are stored in an array.
